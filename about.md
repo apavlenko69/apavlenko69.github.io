@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Project/Delivery Manager with a background in ITIL-based technical support of both in-premise and cloud platforms and applications. Training and certification in data analytics helps me to make management decisions proven by the data.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[LinkedIn](https://www.linkedin.com/in/andrii-pavlenko-b90b5334/)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
